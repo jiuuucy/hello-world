@@ -1,6 +1,6 @@
 # hello git
 
-## git command summary
+## basic git command summary
 
 clone: 원격 저장소 (github) 을 내 컴퓨터에 복사해 온다.
 add: 내 컴퓨터에서 작업한 파일들을 스테이지에 추가
@@ -10,3 +10,10 @@ push: 커밋들을 원격 저장소에 업로드
 ## 파일의 내용 되돌리기
 
 - 특정 파일의 내용을 마지막으로 돌리고 싶다면 해당 파일 선택 후 '코드뭉치 버리기' 선택
+
+## change branch
+
+브랜치 (branch): 기능 변경을 하고 싶을 때 생성 및 사용
+머지 (merge): 한 브랜치의 내용을 다른 브랜치에 반영
+체크아웃 (checkout): 저장소에서 특정 커밋이나 브랜치로 돌아가고 싶을 때 사용
+
